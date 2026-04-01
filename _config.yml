@@ -1,0 +1,7 @@
+# GitHub Pages configuration
+title: "Cargomate Limited"
+description: "Malawi's trusted customs clearing, freight forwarding and logistics partner."
+url: "https://[your-github-username].github.io"
+baseurl: "/cargomate"
+theme: null
+plugins: []
